@@ -9,6 +9,8 @@ This project was developed with:
 - Swagger UI
 - Vitest (simple unit testing)
 
+Total finished time: 2 hours
+
 # Solution
 Path: `src/api/web-servers/findServer.ts`
 
